@@ -1,13 +1,6 @@
 # HTML--Aula1
 Utilização comandos:  html , head, title, body, h1 ate h6 , br e p.
- comentario 
- html = pagina em si 
- head = cabeçalho 
- title = titulo 
- body = esqueleto 
- h1(e outros hs) = titulo do esqueleto 
- br = pular linha 
- p = paragrafo 
+
 <html>
 	<head>
 		<title> Basico HTML </title>
